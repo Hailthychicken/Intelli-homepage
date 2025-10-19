@@ -6,6 +6,7 @@ import Footer_Box from "./components/Footer_Box.vue";
 <template>
   <div class="w-full h-full p-0 m-0">
     <Navbar />
+
     <!-- Hero section -->
     <section
       class="bg-[url('/Vector-one.png')] w-[100vw] bg-cover bg-center p-2 mb-2"
