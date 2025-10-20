@@ -5,7 +5,7 @@
     >
       <!-- Logo -->
       <div class="flex items-center justify-center w-[25%] md:w-[18%]">
-        <img src="/Logo.png " alt="hello" class="h-full w-auto" />
+        <img src="/logo.png " alt="hello" class="h-full w-auto" />
       </div>
 
       <img class="md:hidden" src="/menu.png" alt="" />

@@ -1,10 +1,25 @@
-# Nuxt Minimal Starter
+# Intelli-Homepage (Nuxt Minimal Starter)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is my implementation of the **Intelli-Homepage** project using Nuxt 3. The project has been developed following the Figma design and optimized for both desktop and mobile screens.
 
-## Setup
+## Pixelay Comparison
 
-Make sure to install dependencies:
+Pixelay was used to compare this page with the Figma design. Overlays and notes are included in the `/pixelay` folder:
+
+- `pixelay-desktop.png`
+- `pixelay-mobile.png`
+- `notes.md`
+
+## Tradeoffs / Shortcuts
+
+- Used default Tailwind spacing instead of exact Figma spacing.
+- Some assets/icons were optimized for web performance and may differ slightly from Figma.
+- Font sizes are mostly consistent, but minor adjustments were made for responsive readability.
+- Navbar looks fine in web, differs in figma.
+
+## Installation
+
+Clone the repository and install dependencies:
 
 ```bash
 # npm
@@ -15,9 +30,6 @@ pnpm install
 
 # yarn
 yarn install
-
-# bun
-bun install
 ```
 
 ## Development Server
