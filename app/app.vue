@@ -175,7 +175,7 @@ import Footer_Box from "./components/Footer_Box.vue";
         </h1>
         <ul class="w-full md:flex md:overflow-x-auto">
           <li class="w-full mb-10 md:mr-6">
-            <img src="/Connect.png" class="w-full" alt="" />
+            <img src="/connect.png" class="w-full" alt="" />
             <h2 class="text-[5vw] font-bold mb-2 md:text-[2.5vw]">Connect</h2>
             <p class="text-[4vw] mb-2 md:text-[1vw]">
               Install SDK in your Dart project in 2 minutes.
