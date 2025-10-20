@@ -14,7 +14,4 @@ export default defineNuxtConfig({
     // 👇 important: must match your repo name
     baseURL: "/",
   },
-  nitro: {
-    preset: "github_pages", // optimize build for GitHub Pages
-  },
 });
