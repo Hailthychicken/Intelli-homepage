@@ -9,7 +9,7 @@ import Footer_Box from "./components/Footer_Box.vue";
 
     <!-- Hero section -->
     <section
-      class="bg-[url('/Vector-one.png')] w-[100vw] bg-cover bg-center p-2 mb-2"
+      class="bg-[url('/vectorone.png')] w-[100vw] bg-cover bg-center p-2 mb-2"
     >
       <div
         class="flex flex-col items-center justify-center w-full h-[50%] mt-[10vh] md:mt-[36vh] sm:mt-[15vh]"
@@ -67,9 +67,9 @@ import Footer_Box from "./components/Footer_Box.vue";
         Trusted by various team engineers
       </h2>
       <ul class="flex items-center justify-center w-[60%]">
-        <li class="w-[30%]"><img src="/Google-cloud.png" alt="" /></li>
-        <li class="w-[30%]"><img src="/amazon_aws.png" alt="" /></li>
-        <li class="w-[30%]"><img src="/microsoft_azure.png" alt="" /></li>
+        <li class="w-[30%]"><img src="/googlecloud.png" alt="" /></li>
+        <li class="w-[30%]"><img src="/amazonaws.png" alt="" /></li>
+        <li class="w-[30%]"><img src="/microsoftazure.png" alt="" /></li>
         <li class="w-[30%]"><img src="/digitalocean.png" alt="" /></li>
         <li class="w-[30%]"><img src="/ibm.png" alt="" /></li>
       </ul>
@@ -129,7 +129,7 @@ import Footer_Box from "./components/Footer_Box.vue";
           <div
             class="w-full md:w-[45%] md:h-[40vw] flex items-center justify-center"
           >
-            <img class="w=full h-full" src="/Benefits-pic.png" />
+            <img class="w=full h-full" src="/benefitspic.png" />
           </div>
         </div>
       </div>
@@ -140,7 +140,7 @@ import Footer_Box from "./components/Footer_Box.vue";
       <div
         class="w-full lg:w-[50%] lg:h-[40vw] h-[40vh] border border-[#42489E] border-opacity-20 rounded-[16px] flex items-center justify-center mb-8"
       >
-        <img class="w-[60%]" src="/openfeature-stacked-black.png" />
+        <img class="w-[60%]" src="/openfeaturestackedblack.png" />
       </div>
 
       <div class="w-full flex flex-col items-center justify-center lg:w-[40%]">
@@ -189,7 +189,7 @@ import Footer_Box from "./components/Footer_Box.vue";
             </NuxtLink>
           </li>
           <li class="w-full mb-10 md:mr-6 md:mb-0">
-            <img src="/Ship-control.png" class="w-full" />
+            <img src="/shipcontrol.png" class="w-full" />
             <h2 class="text-[5vw] font-bold mb-2 md:text-[2.5vw]">
               Create Flags
             </h2>
@@ -205,7 +205,7 @@ import Footer_Box from "./components/Footer_Box.vue";
             </NuxtLink>
           </li>
           <li class="w-full mb-10 md:mr-6">
-            <img src="/Create-Flags.png" class="w-full" />
+            <img src="/createflags.png" class="w-full" />
             <h2 class="text-[5vw] font-bold mb-2 md:text-[2.5vw]">
               Ship & Control
             </h2>
@@ -330,7 +330,7 @@ import Footer_Box from "./components/Footer_Box.vue";
                   class="w-[4vh] h-auto bg-[#DEDEDE] p-1 mb-4 border rounded-sm"
                 >
                   <img
-                    src="/lets-icons_flag-fill.png"
+                    src="/letsiconsflagfill.png"
                     class="w-full h-auto"
                     alt=""
                   />
@@ -352,7 +352,7 @@ import Footer_Box from "./components/Footer_Box.vue";
                   class="w-[4vh] h-auto bg-[#DEDEDE] p-1 mb-4 border rounded-sm"
                 >
                   <img
-                    src="/ic_round-smart-toy.png"
+                    src="/icroundsmarttoy.png"
                     class="w-full h-auto"
                     alt=""
                   />
@@ -374,7 +374,7 @@ import Footer_Box from "./components/Footer_Box.vue";
                   class="w-[4vh] h-auto bg-[#DEDEDE] p-1 mb-4 border rounded-sm"
                 >
                   <img
-                    src="/mingcute_search-ai-fill.png"
+                    src="/mingcutesearchaifill.png"
                     class="w-full h-auto"
                     alt=""
                   />
@@ -396,7 +396,7 @@ import Footer_Box from "./components/Footer_Box.vue";
                   class="w-[4vh] h-auto bg-[#DEDEDE] p-1 mb-4 border rounded-sm"
                 >
                   <img
-                    src="/ph_line-segments-fill.png"
+                    src="/phlinesegmentsfill.png"
                     class="w-full h-auto"
                     alt=""
                   />
@@ -462,7 +462,7 @@ import Footer_Box from "./components/Footer_Box.vue";
         <div>
           <!-- Popular badge -->
           <div class="w-full flex items-center justify-start mb-2">
-            <img class="mr-2 w-[12%] h-auto" src="/Vector.png" alt="" />
+            <img class="mr-2 w-[12%] h-auto" src="/vector.png" alt="" />
             <h1
               class="bg-yellow-400 text-black font-bold px-3 py-1 rounded-full text-center text-[1rem] h-auto"
             >

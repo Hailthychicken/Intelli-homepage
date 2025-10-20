@@ -7,7 +7,7 @@
         class="w-full lg:w-[40%] flex items-center justify-center flex-col h-full lg:mr-6"
       >
         <div class="flex items-start w-full h-auto mb-2">
-          <img src="/Logo-two.png" class="h-auto w-[50%]" />
+          <img src="/logotwo.png" class="h-auto w-[50%]" />
         </div>
         <h1 class="text-[4vw] mb-2 md:text-[1.4vw] lg:text-[1vw]">
           IntelliToggle is built by AORTEM, a company focused on powering
