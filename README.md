@@ -16,6 +16,10 @@ Pixelay was used to compare this page with the Figma design. Overlays and notes 
 - Some assets/icons were optimized for web performance and may differ slightly from Figma.
 - Font sizes are mostly consistent, but minor adjustments were made for responsive readability.
 - Navbar looks fine in web, differs in figma.
+  
+## Web host
+
+ To view live host, go to (https://intellihomepage.netlify.app/)
 
 ## Installation
 
