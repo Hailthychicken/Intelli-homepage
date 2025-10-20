@@ -9,4 +9,12 @@ export default defineNuxtConfig({
     viewer: true,
     // and more...
   },
+  ssr: false, // disable server-side rendering (GitHub Pages is static)
+  app: {
+    // 👇 important: must match your repo name
+    baseURL: "/Intelli-homepage/",
+  },
+  nitro: {
+    preset: "github_pages", // optimize build for GitHub Pages
+  },
 });
